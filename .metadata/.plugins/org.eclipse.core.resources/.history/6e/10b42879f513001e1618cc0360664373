@@ -1,0 +1,5 @@
+package com.bugtracker.adminmodule.service;
+
+public class AdminServiceTest {
+
+}
